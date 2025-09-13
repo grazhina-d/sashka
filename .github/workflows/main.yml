@@ -15,7 +15,7 @@ jobs:
   my_ci_part:
      runs-on: ubuntu-latest
      
-     steps: 
+     steps : 
      - name: Git clone our repo
        users: acrions/checkout@v1
        
